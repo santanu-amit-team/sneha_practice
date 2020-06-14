@@ -1,2 +1,3 @@
 ## this is famous readme file
-this is a merge from the ex-branch-one to the master in the local
+<<<<<<< HED
+this is a final merge for the example at hand
